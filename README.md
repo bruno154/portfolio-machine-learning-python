@@ -63,20 +63,23 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
 
 ## Others Projects:
 Implementações em Python puro de algoritmos computacionais e de Machine Learning.
-* **MyToolBox Lib* [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/AlgaritimosComputacionais)
+* **MyToolBox Lib** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/AlgaritimosComputacionais)
+Modulo Python com ferramentas para cada etapa do pipeline de dados.
 
         -
         -
 
 * **Modelos de Machine Learning** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/ModelosMachineLearning)
+Modulo Python com implementação dos algaritmos abaixo e python puro com propósito de estudo.
         
         - Regressão linear Simples e Multipla
         - Regressão Logística
         - KNN
 
-## CRUDs
+
+
+* **CRUDs Databases:** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/CRUDs)
 Modulo Python para o relacionamento com bases de dados relacionais.
-* **Databases:** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/CRUDs)
         
         - Postgres
         - Mysql
