@@ -28,39 +28,56 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
   
-* **Projeto 2 - Prevendo Churn de clientes - Classificação** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/Projeto_2_Prevendo_Customers_Churn)
+* **Projeto 2 - Prevendo Churn de clientes - Classificação** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
       - SQL, Mysql
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
       - Otimização com a lib skopt
 
-* **Projeto 3 - Predicting Car Prices - Regression Problem** [Link](https://github.com/bruno154/DataScienceProjects-Python/blob/master/MachineLearningProjects/Projeto_3_Predicting_Car_Price/Predicting_Car_Prices.ipynb)
+* **Projeto 3 - Predicting Car Prices - Regression Problem** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
       - Jupyters Notebooks
       
       
-* **Projeto 4 - Cardio Catch Diseases- Classification** [Link](https://github.com/bruno154/data_science_projects_python/blob/master/MachineLearningProjects/Projeto_4_Cardio_Catch_Diseases/notebooks/pa001_ciclo01.ipynb)
+* **Projeto 4 - Cardio Catch Diseases- Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+      - EDA, custom transformers, POO
       - Jupyters Notebooks
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-
-
-
-## End-to-End Project:
-Projetos desenvolvidos desde a ideia até o deploy(aplicações analíticas).
-* **README** [Acesso](https://github.com/bruno154/DataScienceProjects/blob/master/End-to-EndProjects/README.md)
-* **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
-
-      - Web Scraping (BeatifullSoup, Selenium)
-      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
-      - Random Forest
-      - App com streamlit
+      - API com deploy na nuvem (Heroku)
       
-* **Projeto 2 - Prevendo o preço de ações - Series Temporais** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_2_Prevendo%20_Stocks_Prices)
+      
+* **Projeto 5 - House Price Prediction- Regression** [Link](https://github.com/bruno154/project-5-house-prices-aimes/blob/main/notebook/p005_price_regression_aimes.ipynb)
 
-       - Python (Pandas, Numpy, Sklearn,statsmodel, yellowbricks,shap, Pickle, POO)
-       - SQL, Sqlite
+      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+      - EDA, custom transformers, POO
+      - Jupyters Notebooks
+      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+      - API com deploy na nuvem (Heroku)
+
+
+
+## Others Projects:
+Implementações em Python puro de algoritmos computacionais e de Machine Learning.
+* **MyToolBox Lib* [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/AlgaritimosComputacionais)
+
+        -
+        -
+
+* **Modelos de Machine Learning** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/ModelosMachineLearning)
+        
+        - Regressão linear Simples e Multipla
+        - Regressão Logística
+        - KNN
+
+## CRUDs
+Modulo Python para o relacionamento com bases de dados relacionais.
+* **Databases:** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/CRUDs)
+        
+        - Postgres
+        - Mysql
+        - Sqlite
