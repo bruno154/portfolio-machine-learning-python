@@ -59,26 +59,28 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
       - API com deploy na nuvem (Heroku)
 
-
-
 ## Others Projects:
 Implementações em Python puro de algoritmos computacionais e de Machine Learning.
-* **MyToolBox Lib** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/AlgaritimosComputacionais)
+* **MyToolBox Lib** [Link](https://github.com/bruno154/project-mytoolbox)
+
 Modulo Python com ferramentas para cada etapa do pipeline de dados.
 
-        -
-        -
+        - Data Collection
+        - Data Description
+        - EDA
+        - Data Preparation
+        - Custom Transformers
 
-* **Modelos de Machine Learning** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/Algorithms/ModelosMachineLearning)
+* **Modelos de Machine Learning** [Link](https://github.com/bruno154/project-ml-models)
+
 Modulo Python com implementação dos algaritmos abaixo e python puro com propósito de estudo.
         
         - Regressão linear Simples e Multipla
         - Regressão Logística
         - KNN
 
+* **CRUDs Databases:** [Acesso](https://github.com/bruno154/project-cruds)
 
-
-* **CRUDs Databases:** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/CRUDs)
 Modulo Python para o relacionamento com bases de dados relacionais.
         
         - Postgres
