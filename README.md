@@ -23,7 +23,7 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
-* **Projeto 1 - Prevendo a satisfação do Clientes do Santander - Classificação** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/Projeto_1_Santander_Customers)
+* **Projeto 1 - Prevendo a satisfação do Clientes do Santander - Classificação** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
