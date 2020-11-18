@@ -23,19 +23,19 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
-* **Projeto 1 - Prevendo a satisfação do Clientes do Santander - Classificação** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
+* **Projeto 1 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
   
-* **Projeto 2 - Prevendo Churn de clientes - Classificação** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
+* **Projeto 2 - Prevendo Churn de clientes - Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
       - SQL, Mysql
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
       - Otimização com a lib skopt
 
-* **Projeto 3 - Predicting Car Prices - Regression Problem** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
+* **Projeto 3 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
