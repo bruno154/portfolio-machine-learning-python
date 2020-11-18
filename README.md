@@ -51,7 +51,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - API com deploy na nuvem (Heroku)
       
       
-* **Projeto 5 - House Price Prediction- Regression** [Link](https://github.com/bruno154/project-5-house-prices-aimes/blob/main/notebook/p005_price_regression_aimes.ipynb)
+* **Projeto 5 - Client Churn Prediction- Classification** [Link](https://github.com/bruno154/project-5-house-prices-aimes/blob/main/notebook/p005_price_regression_aimes.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
       - EDA, custom transformers, POO
