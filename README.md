@@ -28,36 +28,45 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
   
-* **Projeto 2 - Prevendo Churn de clientes - Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
+* **Projeto 2 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
       - SQL, Mysql
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
       - Otimização com a lib skopt
+      
+      
+* **Projeto 3 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
 
-* **Projeto 3 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
+      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+      - EDA, custom transformers, POO
+      - Jupyters Notebooks
+      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+      - API com deploy na nuvem (Heroku)
+      
+      
+* **Projeto 4 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction/blob/main/pa003-client-churn-prediction.ipynb)
+
+      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+      - EDA, custom transformers, POO
+      - Jupyters Notebooks
+      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+      - API com deploy na nuvem (Heroku)
+      
+* **Projeto 5 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
+
+      - Python3 - Pandas, Numpy, Sklearn
+      - EDA,Feature Engineering, GMM
+      - Jupyters Notebooks
+      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+      - Colocação final 77th
+      
+
+* **Projeto 6 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
       - Jupyters Notebooks
-      
-      
-* **Projeto 4 - Cardio Catch Diseases- Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
-
-      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
-      - EDA, custom transformers, POO
-      - Jupyters Notebooks
-      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-      - API com deploy na nuvem (Heroku)
-      
-      
-* **Projeto 5 - Client Churn Prediction- Classification** [Link](https://github.com/bruno154/project-client-churn-prediction/blob/main/pa003-client-churn-prediction.ipynb)
-
-      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
-      - EDA, custom transformers, POO
-      - Jupyters Notebooks
-      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-      - API com deploy na nuvem (Heroku)
 
 ## Others Projects:
 Implementações em Python puro de algoritmos computacionais e de Machine Learning.
