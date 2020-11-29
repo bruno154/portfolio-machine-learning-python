@@ -15,7 +15,7 @@ Tenho grande interesse em tecnologia, principalmente programação e Inteligênc
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/brunovn) 
 
-
+ 
 ## Projetos:
 Os Projetos estaram divididos conforme as categorias abaixo: 
 
