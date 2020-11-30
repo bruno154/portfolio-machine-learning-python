@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/bruno154/DataScienceProjects/blob/master/imgs/Galaxy%20Twitch%20Banner.png" width = "900" height = "300">
-</p>
+</p> 
 
 # Bruno Vinicius Nonato
 Sou majoritariamente autodidata com gosto por aprender constantemente e por desafios complexos, aquele que todos falam que você não vai conseguir. Possuo +10 anos de experiência na área de negócios como Bolsa de Valores, Auditoria contábil e business intelligence, atualmente estou buscando transição de carreira para Data Science.
