@@ -13,7 +13,7 @@ Tenho grande interesse em tecnologia, principalmente programação e Inteligênc
 **Background in:** Python, Machine Learning, Finance and Audit.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/brunovn)
+* [LinkedIn](https://www.linkedin.com/in/brunovn) 
 
  
 ## Projetos:
