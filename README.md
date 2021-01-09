@@ -17,7 +17,7 @@ Tenho grande interesse em tecnologia, principalmente programação e Inteligênc
 
  
 ## Projetos:
-Os Projetos estaram divididos conforme as categorias abaixo:  
+Os Projetos estaram divididos conforme as categorias abaixo:
 
 
 ## Machine Learning Projects:
