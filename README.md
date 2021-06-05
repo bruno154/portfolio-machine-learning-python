@@ -35,12 +35,12 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - API com deploy na nuvem (Heroku)
       - Predição do modelo servido via telegran
 
-* **Projeto 3 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
+* **Projeto 3 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
   
-* **Projeto 4 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
+* **Projeto 4 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
       - SQL, Mysql
@@ -48,7 +48,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Otimização com a lib skopt
       
       
-* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
+* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
       - EDA, custom transformers, POO
@@ -57,7 +57,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - API com deploy na nuvem (Heroku)
       
       
-* **Projeto 6 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction/blob/main/pa003-client-churn-prediction.ipynb)
+* **Projeto 6 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
       - EDA, custom transformers, POO
@@ -74,7 +74,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Colocação final 77th
       
 
-* **Projeto 8 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
+* **Projeto 8 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
 
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
