@@ -22,12 +22,25 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
-* **Projeto 1 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
+* **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
+
+      - Web Scraping (BeatifullSoup, Selenium)
+      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
+      - Random Forest
+      - App com streamlit
+
+* **Projeto 2 - The Rossman Project - End-to-End Project** [Link](https://github.com/bruno154/the_rossman_projects)
+
+      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
+      - API com deploy na nuvem (Heroku)
+      - Predição do modelo servido via telegran
+
+* **Projeto 3 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/blob/main/artefato_final/pipeline_final.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
       - Random Forest
   
-* **Projeto 2 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
+* **Projeto 4 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn/blob/main/notebooks/Projeto2_Churn_Customers_baseline.ipynb)
 
       - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
       - SQL, Mysql
@@ -35,7 +48,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Otimização com a lib skopt
       
       
-* **Projeto 3 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
+* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease/blob/main/notebooks/project-catch-disease-pa001.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
       - EDA, custom transformers, POO
@@ -44,7 +57,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - API com deploy na nuvem (Heroku)
       
       
-* **Projeto 4 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction/blob/main/pa003-client-churn-prediction.ipynb)
+* **Projeto 6 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction/blob/main/pa003-client-churn-prediction.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
       - EDA, custom transformers, POO
@@ -52,7 +65,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
       - API com deploy na nuvem (Heroku)
       
-* **Projeto 5 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
+* **Projeto 7 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
 
       - Python3 - Pandas, Numpy, Sklearn
       - EDA,Feature Engineering, GMM
@@ -61,7 +74,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Colocação final 77th
       
 
-* **Projeto 6 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
+* **Projeto 8 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price/blob/main/Predicting_Car_Prices.ipynb)
 
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
