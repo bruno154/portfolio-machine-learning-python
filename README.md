@@ -74,7 +74,13 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - API com deploy na nuvem (Heroku)
 
-* **Projeto 4 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
+* **Projeto 4 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
+      
+      Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
+  
+      **Projeto em desenvolvimentos**
+
+* **Projeto 5 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
       
       Neste projeto foi desenvolvido uma classificador de satisfação do cliente 
       apoiando políticas do setor de marketing, tanto para entender razões da insatisifação de clientes
@@ -82,12 +88,6 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
      
         - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
         - Random Forest
-
-* **Projeto 5 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
-      
-      Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
-  
-      **Projeto em desenvolvimentos**
 
 * **Projeto 6 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
