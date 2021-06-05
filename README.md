@@ -22,11 +22,16 @@ Na Ernest Young (EY) realizei auditoria de demonstrações financeiras e Informa
 
 Na ARM Telecom realizei o planejamento e estruturação da área de produtividade da companhia através do desenvolvimento do data warehouse da área e criação de dashboards automatizados via VBA. Como resultado obtivemos um aumento de 25% na média de receita mensal.
 
-**Ferramentas análiticas:** Python, SQL, R, Tensorflow (em desenvolvimento), Qlikview,
+**Ferramentas análiticas:** Python, SQL, R, Tensorflow (em desenvolvimento), Qlikview
+
 **Ferramentas de desenvolvimento:** Git, Linux, Docker (em desenvolvimento), VsCode
+
 **Ferramentas de armazenamento:** MySQL, Postgres, SQL Server
+
 **Ferramentas de Pipeline:** AirFlow (em desenvolvimento), CRISP-DS, Lean Analytics
+
 **Machine Learning:** Classificação, Regressão, Clusterização, Séries Temporais
+
 **Deep Learning:** Multi Layers Perceptrons (MLP)
 
 **Links:** 
@@ -39,6 +44,7 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
+
 * **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
     
       Neste projeto foi desenvolvido um aplicativo, com um classificador em seu backend e 
@@ -82,7 +88,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       
       Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
   
-  **Projeto em desenvolvimentos**
+      **Projeto em desenvolvimentos**
 
 * **Projeto 6 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
