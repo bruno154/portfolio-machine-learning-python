@@ -23,11 +23,15 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
 * **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
-
-      - Web Scraping (BeatifullSoup, Selenium)
-      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
-      - Random Forest
-      - App com streamlit
+    
+      Neste projeto foi desenvolvido um aplicativo, com um classificador em seu backend, 
+      que prevê a probabilidade de um determinado vinho gerar avaliações positivas em um e-commerce.
+      
+        - Web Scraping (BeatifullSoup, Selenium)
+        - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
+        - Random Forest
+        - App com streamlit
+      
 
 * **Projeto 2 - The Rossman Project - End-to-End Project** [Link](https://github.com/bruno154/the_rossman_projects)
 
@@ -79,6 +83,8 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
       - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
       - Jupyters Notebooks
+
+* **Projeto 9 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
 
 ## Others Projects:
 Implementações em Python puro de algoritmos computacionais e de Machine Learning.
