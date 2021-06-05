@@ -24,52 +24,70 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
 * **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
 * **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
     
-      Neste projeto foi desenvolvido um aplicativo, com um classificador em seu backend, 
-      que prevê a probabilidade de um determinado vinho gerar avaliações positivas em um e-commerce.
+      Neste projeto foi desenvolvido um aplicativo, com um classificador em seu backend e 
+      dados obtidos via web scrapping, que prevê a probabilidade de um determinado vinho 
+      gerar avaliações positivas em um e-commerce da wine.com.
       
         - Web Scraping (BeatifullSoup, Selenium)
         - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
         - Random Forest
         - App com streamlit
-      
 
 * **Projeto 2 - The Rossman Project - End-to-End Project** [Link](https://github.com/bruno154/the_rossman_projects)
 
-      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
-      - API com deploy na nuvem (Heroku)
-      - Predição do modelo servido via telegran
+      Neste projeto foi desenvolvido uma aplicação para prever os proximos 6 meses de faturamento 
+      da empresa Rossman, sendo os resultados servidos via mensagem no Telegram.
+      
+        - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
+        - API com deploy na nuvem (Heroku)
+        - Predição do modelo servido via telegram
 
-* **Projeto 3 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
+* **Projeto 3 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
 
-      - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
-      - Random Forest
+      Neste projeto buscamos aumentar a eficiência no diagonostico de cancer da empresa Cardio Catch Diseases.
+      
+        - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+        - EDA, custom transformers, POO
+        - Jupyters Notebooks
+        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+        - API com deploy na nuvem (Heroku)
+
+* **Projeto 4 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
+      
+      Neste projeto foi desenvolvido uma classificador de satisfação do cliente 
+      apoiando políticas do setor de marketing, tanto para entender razões da insatisifação de clientes
+      quanto da satisfação dos mesmos.
+     
+        - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
+        - Random Forest
+
+* **Projeto 5 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
+      
+      Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
   
-* **Projeto 4 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
+  **Projeto em desenvolvimentos**
 
-      - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
-      - SQL, Mysql
-      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-      - Otimização com a lib skopt
-      
-      
-* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
+* **Projeto 6 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
-      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
-      - EDA, custom transformers, POO
-      - Jupyters Notebooks
-      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-      - API com deploy na nuvem (Heroku)
+      Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
+      a empresa pode desenvolver políticas assertivas de retenção de clientes.
       
-      
-* **Projeto 6 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
+        - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
+        - SQL, Mysql
+        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+        - Otimização com a lib skopt
 
-      - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
-      - EDA, custom transformers, POO
-      - Jupyters Notebooks
-      - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-      - API com deploy na nuvem (Heroku)
+* **Projeto 7 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
+
+      Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
+      a empresa pode desenvolver políticas assertivas de retenção de clientes.
       
-* **Projeto 7 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
+        - EDA, custom transformers, POO
+        - Jupyters Notebooks
+        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+        - API com deploy na nuvem (Heroku)
+      
+* **Projeto 8 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
 
       - Python3 - Pandas, Numpy, Sklearn
       - EDA,Feature Engineering, GMM
@@ -78,13 +96,13 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Colocação final 77th
       
 
-* **Projeto 8 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
+* **Projeto 9 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
 
-      - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
-      - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
-      - Jupyters Notebooks
-
-* **Projeto 9 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
+      Neste iremos ajudar a uma revendedora de carros a encontrar o preço justo dos seus carros.
+      
+        - Python3 - Pandas, Numpy, Sklearn, SklearnOPT ,yellowbrick
+        - Teste das Suposições de regressão (Linearidade, Normalidade dos resíduos, homocedasticidade)
+        - Jupyters Notebooks
 
 ## Others Projects:
 Implementações em Python puro de algoritmos computacionais e de Machine Learning.
