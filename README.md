@@ -7,10 +7,27 @@
 </p> 
  
 # Bruno Vinicius Nonato
-Sou majoritariamente autodidata com gosto por aprender constantemente e por desafios complexos, aquele que todos falam que você não vai conseguir. Possuo +10 anos de experiência na área de negócios como Bolsa de Valores, Auditoria contábil e business intelligence, atualmente estou buscando transição de carreira para Data Science.
-Tenho grande interesse em tecnologia, principalmente programação e Inteligência Artificial e ultimamente tenho buscado bastante conhecimento em produtização de soluções analíticas
+Eu sou Cientista de Dados atualmente colaborador na Paschoalotto, líder nacional em serviços de cobrança.
+Meu principal papel é o desenvolvimento de produtos orientados a dados impactando positivamente o resultado das companhias.
 
-**Background in:** Python, Machine Learning, Finance and Audit.
+Na Paschoalotto, minha principal função é o desenvolvimento de modelos de escoragem da probabilidade de pagamentos das cobranças realizadas pelo time operacional para diferentes clientes. Como resultado, aumento de 15 – 20% na eficiência na alocação de esforço.
+
+Na Cassol Centerlar, minha principal função era o desenvolvimento de dashboards analíticos apoiando a operação de Marketing da companhia, esporadicamente aplicando técnicas de Machine Learning para personalização de ofertas através de clustering e estudo do comportamento dos clientes.
+
+Na Ernest Young (EY) realizei auditoria de demonstrações financeiras e Informações Contábeis Intermediárias de metalúrgicas, varejo, portos, indústrias e holdings, de acordo com as normas brasileiras e internacionais de auditoria, focados na transparência, validação e formalização das informações contábeis;
+
+- Avaliação das atividades de controles internos e gestão de riscos, avaliação de procedimentos de contagem de estoques;
+
+- Atuação em diversos trabalhos compreendendo avaliação de controles internos, riscos de erros e omissões, desempenho financeiro, práticas contábeis e sugestões de valor aos clientes.
+
+Na ARM Telecom realizei o planejamento e estruturação da área de produtividade da companhia através do desenvolvimento do data warehouse da área e criação de dashboards automatizados via VBA. Como resultado obtivemos um aumento de 25% na média de receita mensal.
+
+**Ferramentas análiticas:** Python, SQL, R, Tensorflow (em desenvolvimento), Qlikview,
+**Ferramentas de desenvolvimento:** Git, Linux, Docker (em desenvolvimento), VsCode
+**Ferramentas de armazenamento:** MySQL, Postgres, SQL Server
+**Ferramentas de Pipeline:** AirFlow (em desenvolvimento), CRISP-DS, Lean Analytics
+**Machine Learning:** Classificação, Regressão, Clusterização, Séries Temporais
+**Deep Learning:** Multi Layers Perceptrons (MLP)
 
 **Links:** 
 * [LinkedIn](https://www.linkedin.com/in/brunovn)  
