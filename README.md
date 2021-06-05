@@ -43,7 +43,6 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
-* **README** [Acesso](https://github.com/bruno154/DataScienceProjects/tree/master/MachineLearningProjects/README.md)
 
 * **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/DataScienceProjects/tree/master/End-to-EndProjects/Projeto_1_WineClassifier)
     
