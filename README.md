@@ -64,7 +64,23 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - API com deploy na nuvem (Heroku)
         - Predição do modelo servido via telegram
 
-* **Projeto 3 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
+* **Projeto 3 - Health Insurance - Learning To Rank** [Link](https://github.com/bruno154/health_insurence_cross_sell_project)
+
+      Neste projeto buscamos a eficiência da alocação do time de vendas () da Health Insurance.
+      
+        - Python3 - Pandas, Numpy, Sklearn, yellowbrick, Shap
+        - EDA, custom transformers, POO
+        - Jupyters Notebooks
+        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
+        - API com deploy na nuvem (Heroku)
+ 
+ * **Projeto 4 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
+      
+      Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
+  
+      **Projeto em desenvolvimentos**
+
+* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
 
       Neste projeto buscamos aumentar a eficiência no diagonostico de cancer da empresa Cardio Catch Diseases.
       
@@ -74,13 +90,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - API com deploy na nuvem (Heroku)
 
-* **Projeto 4 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
-      
-      Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
-  
-      **Projeto em desenvolvimentos**
-
-* **Projeto 5 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
+* **Projeto 6 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
       
       Neste projeto foi desenvolvido uma classificador de satisfação do cliente 
       apoiando políticas do setor de marketing, tanto para entender razões da insatisifação de clientes
@@ -89,7 +99,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
         - Random Forest
 
-* **Projeto 6 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
+* **Projeto 7 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
       Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
       a empresa pode desenvolver políticas assertivas de retenção de clientes.
@@ -99,7 +109,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - Otimização com a lib skopt
 
-* **Projeto 7 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
+* **Projeto 8 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
 
       Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
       a empresa pode desenvolver políticas assertivas de retenção de clientes.
@@ -109,7 +119,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - API com deploy na nuvem (Heroku)
       
-* **Projeto 8 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
+* **Projeto 9 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
 
       - Python3 - Pandas, Numpy, Sklearn
       - EDA,Feature Engineering, GMM
@@ -118,7 +128,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Colocação final 77th
       
 
-* **Projeto 9 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
+* **Projeto 10 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
 
       Neste iremos ajudar a uma revendedora de carros a encontrar o preço justo dos seus carros.
       
