@@ -44,27 +44,16 @@ Os Projetos estaram divididos conforme as categorias abaixo:
 ## Machine Learning Projects:
 Projetos comentados de aplicações de Machine Learning para a solução de problemas de negócios.
 
-* **Projeto 1 - WineClassifierApp - End-to-End Project** [Link](https://github.com/bruno154/WineClassifierApp)
-    
-      Neste projeto foi desenvolvido um aplicativo, com um classificador em seu backend e 
-      dados obtidos via web scrapping, que prevê a probabilidade de um determinado vinho 
-      gerar avaliações positivas em um e-commerce da wine.com.
-      
-        - Web Scraping (BeatifullSoup, Selenium)
-        - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
-        - Random Forest
-        - App com streamlit
-
-* **Projeto 2 - The Rossman Project - End-to-End Project** [Link](https://github.com/bruno154/the_rossman_projects)
+* **Projeto 1 - The Rossman Project - End-to-End Project** [Link](https://github.com/bruno154/the_rossman_projects)
 
       Neste projeto foi desenvolvido uma aplicação para prever os proximos 6 meses de faturamento 
       da empresa Rossman, sendo os resultados servidos via mensagem no Telegram.
       
         - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle)
         - API com deploy na nuvem (Heroku)
-        - Predição do modelo servido via telegram
+        - Predição do modelo servido via bot-telegram
 
-* **Projeto 3 - Health Insurance - Learning To Rank** [Link](https://github.com/bruno154/health_insurence_cross_sell_project)
+* **Projeto 2 - Health Insurance - Learning To Rank - [Em Revisão]** [Link](https://github.com/bruno154/health_insurence_cross_sell_project)
 
       Neste projeto buscamos a eficiência da alocação do time de vendas () da Health Insurance.
       
@@ -74,13 +63,13 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - API com deploy na nuvem (Heroku)
  
- * **Projeto 4 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
+ * **Projeto 3 - Insiders Loyalty Program - Clustering** [Link](https://github.com/bruno154/InsidersLoyaltyProgram)
       
       Neste projeto iremos desenvolver um programa de fidelidade para a empresa Insiders
   
       **Projeto em desenvolvimentos**
 
-* **Projeto 5 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
+* **Projeto 4 - Cardio Catch Diseases-Binary Classification** [Link](https://github.com/bruno154/project-4-cardio-catch-disease)
 
       Neste projeto buscamos aumentar a eficiência no diagonostico de cancer da empresa Cardio Catch Diseases.
       
@@ -90,7 +79,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
         - API com deploy na nuvem (Heroku)
 
-* **Projeto 6 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
+* **Projeto 5 - Prevendo a satisfação do Clientes do Santander - Classification** [Link](https://github.com/bruno154/project-1-santander-customers/)
       
       Neste projeto foi desenvolvido uma classificador de satisfação do cliente 
       apoiando políticas do setor de marketing, tanto para entender razões da insatisifação de clientes
@@ -99,27 +88,8 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
         - Python (Pandas, Numpy, Sklearn, yellowbricks, Pickle, POO)
         - Random Forest
 
-* **Projeto 7 - Prevendo Churn de clientes -Binary Classification** [Link](https://github.com/bruno154/project-2-predicting-customers-churn)
 
-      Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
-      a empresa pode desenvolver políticas assertivas de retenção de clientes.
-      
-        - Python (Pandas, Numpy, Sklearn, yellowbricks,shap, Pickle, POO)
-        - SQL, Mysql
-        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-        - Otimização com a lib skopt
-
-* **Projeto 8 - Client Churn Prediction-Binary Classification** [Link](https://github.com/bruno154/project-client-churn-prediction)
-
-      Neste projeto foi desenvolvido um classificador de churn de clientes, dessa forma 
-      a empresa pode desenvolver políticas assertivas de retenção de clientes.
-      
-        - EDA, custom transformers, POO
-        - Jupyters Notebooks
-        - Análise comparativa entre os modelos Decison Tree, Random Forest, LGBM, Xgboost
-        - API com deploy na nuvem (Heroku)
-      
-* **Projeto 9 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
+* **Projeto 6 - Kaggle Competition-ClassifyForestType-MultiClass Classification** [Link](https://github.com/bruno154/kaggle_competition_classifyforesttype)
 
       - Python3 - Pandas, Numpy, Sklearn
       - EDA,Feature Engineering, GMM
@@ -128,7 +98,7 @@ Projetos comentados de aplicações de Machine Learning para a solução de prob
       - Colocação final 77th
       
 
-* **Projeto 10 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
+* **Projeto 7 - Predicting Car Prices - Regression** [Link](https://github.com/bruno154/project-3-predicting-car-price)
 
       Neste iremos ajudar a uma revendedora de carros a encontrar o preço justo dos seus carros.
       
